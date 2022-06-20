@@ -1,0 +1,44 @@
+1.What is reactjs :
+https://www.youtube.com/watch?v=QmwZwSiOic0
+
+A JavaScript Library for building user interfaces
+
+Declarative	Component-Based	Learn Once, Write Anywhere
+
+Components Like Header, Menu, Title Content
+
+
+
+2.Reactjs Component Structure
+https://www.youtube.com/watch?v=9VIiLJL0H4Y
+
+
+package.json contains required dependencies
+package-lock.json ensures dependencies are installed properly
+index.html contains only div root don't change as control will be given to react
+index.js we specify root component(app) and DOM element controlled by react (element with id root)
+App.js is component which is the view which we see in browser
+App.css and index.css give styling
+App.test.js contains simple test case for unit testing	
+
+
+
+3. what is type script and why it is used over Javascript / Typescript basics
+https://www.youtube.com/watch?v=ucZRzCYQRQo&list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA-&index=
+Videos 1-12,14,16,18,26,34,36
+
+TS is not a new programming language
+TS is typed superset of JS
+Developed by Microsoft
+Object Oriented
+
+Benefits:
+Easy code management
+supports ECMAscript (new features, defines standards in JS)
+Data Types, classes, interfaces etc.
+IDE support
+
+Pre-requisites:
+Nodejs and npm
+modern code editor
+Basic Idea about JS
